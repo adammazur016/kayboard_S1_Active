@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="flex-box">
+    <div class="show color-success"><text style="width: 300px;">{{title}}</text></div>
+    <div class="flex-item grey" onclick="click('abc')"><text>abc</text></div>
+    <div class="flex-item grey" onclick="click('def')"><text>def</text></div>
+    <div class="flex-item grey" onclick="click('ghi')"><text>ghi</text></div>
+    <div class="flex-item grey" onclick="click('jkl')"><text>jkl</text>></div>
+    <div class="flex-item grey" onclick="click('mno')"><text>mno</text></div>
+    <div class="flex-item grey" onclick="click('pqr')"><text>pqr</text>></div>
+    <div class="flex-item grey" onclick="click('stu')"><text>stu</text></div>
+    <div class="flex-item grey" onclick="click('vwx')"><text>vwx</text></div>
+    <div class="flex-item grey" onclick="click('yz!')"><text>yz!</text>></div>
+    <div class="flex-item color-success"><text>??</text>></div>
+    <div class="flex-item grey" onclick="click(' ')"><text>Space</text>></div>
+    <div class="flex-item color-warning" onclick="backspace"><text><--</text>></div>
+  </div>
+</div>

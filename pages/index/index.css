@@ -1,0 +1,44 @@
+.container {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 466px;
+  height: 466px;
+}
+.flex-box {
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 450px;
+  height: 450px;
+}
+.flex-item {
+  width: 150px;
+  height: 60px;
+  border-radius: 16px;
+  margin-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.color-primary {
+  background-color: #007dff;
+}
+.color-warning {
+  background-color: #ff7500;
+}
+.color-success {
+  background-color: #41ba41;
+}
+
+.grey {
+ background-color: #708090;
+}
+
+.show {
+    width: 450px;
+    height: 80px;
+    border-radius: 16px;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+}
